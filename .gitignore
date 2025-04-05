@@ -1,0 +1,10 @@
+# Python
+python-backend/venv/
+__pycache__/
+
+# Node
+node-backend/node_modules/
+
+# Ortak
+notes.db
+.env
